@@ -1,6 +1,6 @@
 # 🛡️ System Threat Forecasting - Malware Infection Prediction
 
-This project was developed as part of the **IIT Madras BSc Degree Program**, and it achieved an **A grade** for its thorough approach and performance. The goal was to predict whether a system would be infected by various families of malware using rich telemetry data from antivirus threat reports.
+This project was developed as part of the **IIT Madras BS Degree Program**, and it achieved an **A grade** for its thorough approach and performance. The goal was to predict whether a system would be infected by various families of malware using rich telemetry data from antivirus threat reports.
 
 ## 📌 Project Overview
 
